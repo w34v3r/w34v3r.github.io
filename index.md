@@ -11,3 +11,5 @@ Anthony Edward "Tony" Stark was a billionaire industrialist, a founding member o
 * Iron Man
 
 > My armor, it was never a distraction or a hobby, it was a cocoon. And now, I'm a changed man. You can take away my house, all my tricks and toys. But one thing you can't take away... I am Iron Man.*
+
+<img src="https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/3/35/IronMan-EndgameProfile.jpg" width="1280"/>
